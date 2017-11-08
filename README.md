@@ -1,6 +1,6 @@
-## dev-task
+## playsports-task
 
-A simple task based off the angular2-seed project.
+A simple starter project demonstrating the basic concepts of Angular 2 based off angular2-seed.
 
 
 ### Usage
@@ -13,3 +13,4 @@ A simple task based off the angular2-seed project.
 - open browser to [`http://localhost:3000`](http://localhost:3000)
 - if you want to use other port, open `package.json` file, then change port in `--port 3000` script
 - create a new branch including your name and create a pull request when you're done.
+
