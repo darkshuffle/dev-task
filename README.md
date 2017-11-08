@@ -12,4 +12,5 @@ A simple starter project demonstrating the basic concepts of Angular 2 based off
 - run `npm start` to fire up dev server
 - open browser to [`http://localhost:3000`](http://localhost:3000)
 - if you want to use other port, open `package.json` file, then change port in `--port 3000` script
-- create a new branch with your name and submit a pull request when finished
+- create a new branch including your name and create a pull request when you're done.
+
