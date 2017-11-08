@@ -1,6 +1,6 @@
-## angular2-seed
+## playsports-task
 
-A simple starter project demonstrating the basic concepts of Angular 2.
+A simple starter project demonstrating the basic concepts of Angular 2 based off angular2-seed.
 
 
 ### Usage
@@ -12,3 +12,4 @@ A simple starter project demonstrating the basic concepts of Angular 2.
 - run `npm start` to fire up dev server
 - open browser to [`http://localhost:3000`](http://localhost:3000)
 - if you want to use other port, open `package.json` file, then change port in `--port 3000` script
+- create a new branch with your name and submit a pull request when finished
